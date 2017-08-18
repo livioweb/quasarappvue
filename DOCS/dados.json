@@ -1,0 +1,886 @@
+[
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "26",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 26,
+"usuario": "Dayanne Almeida ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "19",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 19,
+"usuario": "Nazareno Cantanhede ATUALIZADO ",
+"Novo": 1,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "22",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 22,
+"usuario": "Tacirio Braga ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "48",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 48,
+"usuario": "Thayza Sousa ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "73",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 73,
+"usuario": "Wellerson Martins ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 1,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 1,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "42",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 42,
+"usuario": "Amanda Döth ATUALIZADO ",
+"Novo": 6,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "12",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 12,
+"usuario": "Antonio Iderlan ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "59",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 59,
+"usuario": "Bruno Anjos ATUALIZADO ",
+"Novo": 1,
+"Em andamento": 1,
+"C. Implantação": 3,
+"C. Feedback": 0,
+"Correção": 1,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 1,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "21",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 21,
+"usuario": "Cassio Pacheco ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "65",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 65,
+"usuario": "Lívio Rodrigues Lopes ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "10",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 10,
+"usuario": "Ricardo Araujo ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "70",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 70,
+"usuario": "Solicitação Ramilton ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "55",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 55,
+"usuario": "Igor Diniz ATUALIZADO ",
+"Novo": 3,
+"Em andamento": 0,
+"C. Implantação": 10,
+"C. Feedback": 0,
+"Correção": 3,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 1,
+"Em espera": 3,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "54",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 54,
+"usuario": "Ilara Almeida ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 1,
+"Em espera": 1,
+"Fechado": 0,
+"Rejeitado": 1,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "36",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 36,
+"usuario": "Josias Dias ATUALIZADO ",
+"Novo": 1,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "20",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 20,
+"usuario": "Ramilton Sena ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "43",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 43,
+"usuario": "Suporte Web ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "51",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 51,
+"usuario": "Valério  Oliveira ATUALIZADO ",
+"Novo": 1,
+"Em andamento": 0,
+"C. Implantação": 1,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 1,
+"Em espera": 1,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "38",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 38,
+"usuario": "Wanderson Brauna ATUALIZADO ",
+"Novo": 1,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "1",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 1,
+"usuario": "Redmine Admin ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "13",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 13,
+"usuario": "Elvisley Araujo ATUALIZADO ",
+"Novo": 7,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "72",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 72,
+"usuario": "Felype Lisboa ATUALIZADO ",
+"Novo": 1,
+"Em andamento": 1,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 2,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "71",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 71,
+"usuario": "Ramon Cascaes ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "16",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 16,
+"usuario": "Ruy Flexa ATUALIZADO ",
+"Novo": 2,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 1,
+"Resolvido": 0,
+"Interrompido": 3,
+"Feedback": 3,
+"Em espera": 1,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "69",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 69,
+"usuario": "A definir Programador ATUALIZADO ",
+"Novo": 26,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 1,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "56",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 56,
+"usuario": "Jefferson Sampaio ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 1,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 1,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 1,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "68",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 68,
+"usuario": "visualizacao visualizacao ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "64",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 64,
+"usuario": "Rodrigo Medeiros ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "74",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 74,
+"usuario": "Mailson Silva ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 3,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "75",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 75,
+"usuario": "Artur Ferreira ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 1,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "17",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 17,
+"usuario": "Jorge Luis ATUALIZADO ",
+"Novo": 8,
+"Em andamento": 1,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 2,
+"Em espera": 1,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "31",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 31,
+"usuario": "Gustavo Ramos ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "23",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 23,
+"usuario": "Ezir Costa ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+},
+{
+"_index": "redmine",
+"_type": "totaltarefas",
+"_id": "76",
+"_score": 1,
+"_source": {
+"tarefas": [
+{
+"id": 76,
+"usuario": "Analista Programador ATUALIZADO ",
+"Novo": 0,
+"Em andamento": 0,
+"C. Implantação": 0,
+"C. Feedback": 0,
+"Correção": 0,
+"Resolvido": 0,
+"Interrompido": 0,
+"Feedback": 0,
+"Em espera": 0,
+"Fechado": 0,
+"Rejeitado": 0,
+"Melhoria": 0
+}
+]
+}
+}
+]

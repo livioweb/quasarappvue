@@ -1,0 +1,39 @@
+, {
+        headers: {
+          'x-access-token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiI1OTgzMjYxYTJmMDM2YTJmZTc0YWQ5OTMiLCJleHAiOjE1MDIzNzI0MTA1NDd9.szixaiuZxshj33v5Dq2D6qyrWL1ZNzpfEC9zg9eZYgM',
+          'Content-Type': 'application/json',
+          'Access-Control-Allow-Origin': '*',
+          'Access-Control-Allow-Headers': '*',
+          'Access-Control-Allow-Methods': '*'
+        }
+      }
+
+Accept-Control-Allow-Origin
+       headers: {
+                'X-Redmine-API-Key': '631298efe3cdc3f6d7b79626383cf1ab3ca36878',
+                'Content-Type': 'application/json'
+              }
+
+
+              module.exports = function(req, res, next) {
+                  res.header('Access-Control-Allow-Origin', '*')
+                  res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE')
+                  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept, x-access-token')
+                  next()
+              }
+
+
+
+              axios.get('http://192.168.98.15/redmine/users.json', {
+                      headers: {
+                        'Content-Type': 'application/json',
+                        'X-Redmine-API-Key': '631298efe3cdc3f6d7b79626383cf1ab3ca36878',
+                        'Access-Control-Allow-Headers': 'Content-Type, Accept, X-Redmine-API-Key',
+                        'Access-Control-Allow-Methods': '*',
+                        'Accept-Control-Allow-Origin': '*'
+                      }
+                    })
+                      .then((res) => {
+                        this.list = res.data
+                        console.log(this.list)
+                      })
